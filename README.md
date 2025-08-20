@@ -29,8 +29,8 @@
 This project offers pre-configured [**Debezium Database**](https://marketplace.huaweicloud.com) images with Debezium and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
-> - CPU: 2GHz or higher  
-> - RAM: 4GB or more  
+> - CPU: 4GHz or higher  
+> - RAM: 8GB or more  
 > - Disk: At least 60GB  
 
 ## Prerequisites  

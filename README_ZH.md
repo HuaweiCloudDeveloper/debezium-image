@@ -13,7 +13,7 @@
 - [如何贡献](#如何贡献)
 
 ## 项目介绍
-[Debezium](https://github.com/debezium/debezium) Debezium是一个捕获数据更改(change data capture,CDC)低延迟的流式处理平台。用户安装并且配置Debezium去监控数据库，然后就可以消费对数据库的每一个行级别(row-level)的更改。
+[Debezium](https://github.com/debezium/debezium) 是一个捕获数据更改(change data capture,CDC)低延迟的流式处理平台。用户安装并且配置Debezium去监控数据库，然后就可以消费对数据库的每一个行级别(row-level)的更改。
 
 **核心特性：**
 1. 确保捕获所有的数据变更。
@@ -32,8 +32,8 @@
 本项目提供的开源镜像商品 [**Debezium数据库**](https://marketplace.huaweicloud.com)，已预先安装 Debezium 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
-> - CPU: 2GHz 或更高
-> - RAM: 4GB 或更大
+> - CPU: 4GHz 或更高
+> - RAM: 8GB 或更大
 > - Disk: 至少 60GB
 
 ## 前置条件
