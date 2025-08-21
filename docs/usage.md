@@ -79,7 +79,7 @@ SHOW VARIABLES LIKE '%log_bin%';   --log_bin 的值为 ON
 ## 分别先后启动zookeeper/kafka/connect依赖服务
 ```shell
 cd /usr/local/kafka
-sh /usr/local/zookeeper/zookeeper/bin/zkServer.sh start
+sh /usr/local/zookeeper/bin/zkServer.sh start
 sh /usr/local/kafka/bin/kafka-server-start.sh -daemon config/server.properties
 sh /usr/local/kafka/bin/connect-distributed.sh -daemon config/connect-distributed.properties
 ```
