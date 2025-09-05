@@ -26,7 +26,7 @@
 
 ![](./images/img001.png)
 
-This project offers pre-configured [**Debezium Database**](https://marketplace.huaweicloud.com/hidden/contents/6b366e2e-b51d-4a81-9c47-876452e5e666#productid=OFFI1169449120448692224) images with Debezium and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Debezium real-time data collection**](https://marketplace.huaweicloud.com/hidden/contents/6b366e2e-b51d-4a81-9c47-876452e5e666#productid=OFFI1169449120448692224) images with Debezium and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 4GHz or higher  
