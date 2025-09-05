@@ -29,7 +29,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**Debezium数据库**](https://marketplace.huaweicloud.com)，已预先安装 Debezium 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Debezium数据库**](https://marketplace.huaweicloud.com/hidden/contents/6b366e2e-b51d-4a81-9c47-876452e5e666#productid=OFFI1169449120448692224)，已预先安装 Debezium 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 4GHz 或更高
