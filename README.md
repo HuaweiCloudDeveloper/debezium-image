@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Debezium实时数据采集](https://marketplace.huaweicloud.com)
+- 镜像商品：[Debezium实时数据采集](https://marketplace.huaweicloud.com/hidden/contents/6b366e2e-b51d-4a81-9c47-876452e5e666#productid=OFFI1169449120448692224)
 - 镜像规格：Debezium2.4.1-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM

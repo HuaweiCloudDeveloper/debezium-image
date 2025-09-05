@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Debezium实时数据采集](https://marketplace.huaweicloud.com)
+[Debezium实时数据采集](https://marketplace.huaweicloud.com/hidden/contents/6b366e2e-b51d-4a81-9c47-876452e5e666#productid=OFFI1169449120448692224)
 
 # 二、商品说明
 **Debezium** 是一个捕获数据更改(change data capture,CDC)低延迟的流式处理平台。用户安装并且配置Debezium去监控数据库，然后就可以消费对数据库的每一个行级别(row-level)的更改。
